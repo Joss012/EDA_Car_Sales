@@ -8,7 +8,7 @@ The purpose of the project is to give insight on overall trends on the car sales
  - [Car Sales Report](https://www.kaggle.com/datasets/missionjee/car-sales-report/data)
 ## Environment Used
 
-- VM inside of VS Code running ```Python3```
+- Virtual Environment inside of VS Code running ```Python3```
 
 - ```Jupyter Notebook``` inside of VS Code
 
