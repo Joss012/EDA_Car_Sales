@@ -24,10 +24,10 @@ The purpose of the project is to give insight on overall trends on the car sales
 ## Some Findings
 
 - #### Number of...
-  - Males and Females who bought from each company
-  - ![Annual_Income_MF](images/Annual_Income_MF.png)
-  - Cars that were sold from each company
-  ![Average_Price_MF_Pay](images/Average_Price_MF_Pay.png)
+  - Males and Females who bought from each company\
+  ![Annual_Income_MF](images/Annual_Income_MF.png)\
+  - Cars that were sold from each company\
+  ![Average_Price_MF_Pay](images/Average_Price_MF_Pay.png)\
   - Cars sold per Dealer Region
   ![Average_Price_per_Company](images/Average_Price_per_Company.png)
 - #### Average
