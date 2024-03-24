@@ -27,20 +27,20 @@ The purpose of the project is to give insight on overall trends on the car sales
   - Males and Females who bought from each company
   ![Annual_Income_MF](images/Annual_Income_MF.png)
   - Cars that were sold from each company
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![Average_Price_MF_Pay](images/Average_Price_MF_Pay.png)
   - Cars sold per Dealer Region
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![Average_Price_per_Company](images/Average_Price_per_Company.png)
 - #### Average
   - Annual Income between Males and Females 
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![Average_Price_per_DR](images/Average_Price_per_DR.png)
   - Price of a Car per Company
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![Common_Body_Style](images/Common_Body_Style.png)
   - Price of a Car per Dealer Region
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![Common_Type_Color](images/Common_Type_Color.png)
   - Price a Male and Female are paying for a car 
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![MF_Bought_From_Each_Company](images/MF_Bought_From_Each_Company.png)
 - #### Most Common Type of...
   - Color bought
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![Number_of_Cars_Sold_by_Each_Company.png](images/Number_of_Cars_Sold_by_Each_Company.png)
   - Body Style bought
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![Number_of_Cars_Sold_per_DR](images/Number_of_Cars_Sold_per_DR.png)
