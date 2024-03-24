@@ -5,7 +5,7 @@ The purpose of the project is to give insight on overall trends on the car sales
 
 ## Data Set Used
 
- - [Car Sales Report](https://www.kaggle.com/datasets/missionjee/car-sales-report/data){:target="_blank"}
+ - [Car Sales Report](https://www.kaggle.com/datasets/missionjee/car-sales-report/data)
 ## Environment Used
 
 - VM inside of VS Code running ```Python3```
@@ -24,22 +24,22 @@ The purpose of the project is to give insight on overall trends on the car sales
 
 - #### Number of...
   - Cars sold per Dealer Region \
-  ![Average_Price_per_Company](images/Average_Price_per_Company.png){:target="_blank"}
+  ![Average_Price_per_Company](images/Average_Price_per_Company.png)
   - Males and Females who bought from each company \
-  ![Annual_Income_MF](images/Annual_Income_MF.png){:target="_blank"}
+  ![Annual_Income_MF](images/Annual_Income_MF.png)
   - Cars that were sold from each company\
-  ![Average_Price_MF_Pay](images/Average_Price_MF_Pay.png){:target="_blank"}
+  ![Average_Price_MF_Pay](images/Average_Price_MF_Pay.png)
 - #### Average
   - Price a Male and Female are paying for a car \
-  ![MF_Bought_From_Each_Company](images/MF_Bought_From_Each_Company.png){:target="_blank"}
+  ![MF_Bought_From_Each_Company](images/MF_Bought_From_Each_Company.png)
   - Annual Income between Males and Females \
-  ![Average_Price_per_DR](images/Average_Price_per_DR.png){:target="_blank"}
+  ![Average_Price_per_DR](images/Average_Price_per_DR.png)
   - Price of a Car per Company \
-  ![Common_Body_Style](images/Common_Body_Style.png){:target="_blank"}
+  ![Common_Body_Style](images/Common_Body_Style.png)
   - Price of a Car per Dealer Region \
-  ![Common_Type_Color](images/Common_Type_Color.png){:target="_blank"}
+  ![Common_Type_Color](images/Common_Type_Color.png)
 - #### Most Common Type of...
   - Color bought \
-  ![Number_of_Cars_Sold_by_Each_Company.png](images/Number_of_Cars_Sold_by_Each_Company.png){:target="_blank"}
+  ![Number_of_Cars_Sold_by_Each_Company.png](images/Number_of_Cars_Sold_by_Each_Company.png)
   - Body Style bought \
-  ![Number_of_Cars_Sold_per_DR](images/Number_of_Cars_Sold_per_DR.png){:target="_blank"}
+  ![Number_of_Cars_Sold_per_DR](images/Number_of_Cars_Sold_per_DR.png)
