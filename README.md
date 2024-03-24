@@ -1,4 +1,3 @@
-
 # Exploratory Data Analysis in Python
 
 The purpose of the project is to give insight on overall trends on the car sales of regional dealerships and to investigate what preferences different customers have when purchasing a vehicle.
@@ -24,7 +23,7 @@ The purpose of the project is to give insight on overall trends on the car sales
 ## Some Findings
 
 - #### Number of...
-  - Males and Females who bought from each company\
+  - Males and Females who bought from each company\\
   ![Annual_Income_MF](images/Annual_Income_MF.png)\
   - Cars that were sold from each company\
   ![Average_Price_MF_Pay](images/Average_Price_MF_Pay.png)\
